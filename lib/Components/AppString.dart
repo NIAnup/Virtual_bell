@@ -1,0 +1,34 @@
+class AppString {
+  static const device = 'Android';
+  static const version = 'Version 1.0.0';
+  static const title = 'Porter';
+  static const introTitle1 = 'Join Reward Program';
+  static const introSubTitle1 = 'Join us for rewards on each sale..';
+  static const introTitle2 = 'Encash Your Reward';
+  static const introSubTitle2 = 'Buy any product from  earned points.';
+  static const introTitle3 = "Any Cas Join";
+  static const introSubTitle3 = 'App is open for: Painters.';
+  static const introTitle4 = 'Enjoy Reward Banking';
+  static const introSubTitle4 = 'Help your friend.';
+  static const otp = "Please enter the verification ";
+  static const notification = "You are ready to receive ";
+  static const congratulation = "Your account is ready to use.";
+  static const language = "Please select your preferred language .";
+  static const location = "Share your location to start sending.";
+  static const map = "Earn with KWIK+";
+  static const howToEarn = "Choose how you want to earn with KWIK+";
+  static const vehicle = "Enter your vehicle details";
+  static const dl1 = "Make sure you take front";
+  static const id1 = "Upload another identification document to";
+  static const rc = "Upload Registration Photo";
+  static const dl = "Upload Driver License";
+  static const id = "Upload ID/SSN";
+  static const selfie = "Upload Selfie";
+  static const passport = "Upload Passport";
+  static const accountCrated = "Your account is under review,";
+  static const wallet = "Maximum limit to withdraw mon";
+  static const cancelTitle = "Cancel Booking!";
+  static const cancelSubTitle = "Please select the reason";
+  static const logout = "Are you sure you want to log out?";
+  static const contactUs = "If you face any trouble for";
+}

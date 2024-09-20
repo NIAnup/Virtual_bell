@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "589805270139",
+    "firebase_url": "https://virtual-bell-default-rtdb.firebaseio.com",
+    "project_id": "virtual-bell",
+    "storage_bucket": "virtual-bell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589805270139:android:a5525e7adcbfe18caf1ede",
+        "android_client_info": {
+          "package_name": "com.example.virtualbell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4saq4v6iU6rGqtw6bj2qzu0EthVQ1E00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
